@@ -691,7 +691,7 @@ footer {
         display: flex;
         flex-direction: column;
         width: 250px;
-        height: 240px;
+        height: 245px;
         border-radius: 10px;
         background-color: #101518;
         transition: all .50s;
