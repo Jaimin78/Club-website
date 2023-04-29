@@ -200,8 +200,8 @@ label {
 
 .about-box {
     margin: 10px 20px;
-    background-color: #121212;
-    background: transparant;
+    /*background-color: #121212;
+    background: transparant;*/
     border-radius: 2%;
 }
 
